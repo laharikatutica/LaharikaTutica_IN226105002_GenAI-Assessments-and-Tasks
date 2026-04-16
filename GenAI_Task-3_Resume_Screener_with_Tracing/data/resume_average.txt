@@ -1,0 +1,16 @@
+Name: Neha Sharma
+
+Experience:
+1 year as a Data Analyst at a startup
+
+Skills:
+Basic Python, Data Analysis, Excel, Basic SQL, Data Visualization
+
+Projects:
+- Performed sales data analysis using Python
+- Assisted in data cleaning and preprocessing tasks
+- Performed grocery store analysis using basic SQL queries 
+- Created customer trends dashboards for Amazon using Power BI
+
+Education:
+Bachelor's in Computer Science

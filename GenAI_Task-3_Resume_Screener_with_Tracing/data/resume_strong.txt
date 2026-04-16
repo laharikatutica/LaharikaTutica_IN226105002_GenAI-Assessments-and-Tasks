@@ -1,0 +1,16 @@
+Name: Rahul Kumar
+
+Experience:
+6+ years as a Data Scientist at a leading tech company
+
+Skills:
+Python, Pandas, Data Visualization, Machine Learning, NumPy, Scikit-learn, SQL, AWS, NLP, Communication
+
+Projects:
+- Developed a real-time fraud detection system with over 98% accuracy
+- Built NLP models for customer churn prediction and sentimental data analysis
+- Deployed machine learning models on AWS using Docker
+- Visualized the Covid-19 Worldwide Dataset using seaborn and matplotlib
+
+Education:
+Master's in Data Science

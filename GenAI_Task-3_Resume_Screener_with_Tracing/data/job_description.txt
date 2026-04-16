@@ -1,0 +1,42 @@
+Role: Data Scientist
+
+We are looking for a Data Scientist who can analyze data, build machine learning models, and generate actionable business insights.
+
+---
+
+Required Skills:
+- Python programming
+- SQL for data querying and manipulation
+- Data Analysis and statistical understanding
+- Machine Learning basics (supervised and unsupervised learning)
+- Data Visualization (matplotlib, seaborn, or similar tools)
+
+---
+
+Preferred Skills:
+- Pandas and NumPy
+- NLP (Natural Language Processing)
+- Experience with ML libraries such as Scikit-learn
+- Cloud platforms (AWS, Azure, or GCP)
+- Experience with model deployment
+- 3+ years of experience in Data Analytics or related field
+
+---
+
+Responsibilities:
+- Clean, analyze, and interpret large datasets
+- Build and evaluate machine learning models
+- Create dashboards and data visualizations
+- Work with structured and unstructured data
+- Communicate insights to stakeholders
+- Collaborate with engineering and business teams
+
+---
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or related field preferred
+
+---
+
+Note:
+Strong candidates will have a combination of technical skills, practical experience, and the ability to apply machine learning techniques to real-world problems.
