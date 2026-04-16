@@ -82,11 +82,7 @@ AI-Resume-Screener/
 ```
 
 ## Environment Setup
-### 1. Clone the repository
-```bash
-git clone <your-repo-link>
-cd GenAI_Task-3_Resume_Screener_with_Tracing
-```
+### 1. Clone the repository and navigate to the project directory
 
 #### Note: Create and activate virtual environment (optional but recommended)
 ```bash
